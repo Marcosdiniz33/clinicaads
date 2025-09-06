@@ -20,7 +20,7 @@ RF6 -  O sistema deve possibilitar o desmarcação e cancelamento de agendamento
 RU7 - Quero que o sistema guarde o resultado dos exames e evolução médica
 RF7 -  O sistema deve possibilitar a gurda dos exames e evoluções clínicas
 
-RU8 - Quero que o sistema envie mensagem para o paciente lembrando da consulta um dia antes
+RU8 - Quero que o sistema envie e-mail para o paciente lembrando da consulta um dia antes
 RF8 -  O sistema deve possibilitar o envio de e-mail para o paciente lemabrando da consulta um dia antes
 
 
